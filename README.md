@@ -1,4 +1,4 @@
-### Presentation of the thesis 'Development of a Software Tool for Detecting Modifications in Digital Photographs'.
+### Presentation of the diploma thesis 'Development of a Software Tool for Detecting Modifications in Digital Photographs'.
 
 [Presentation](https://github.com/TanyaIgnatenko/image-insertion-detector-diploma-work/blob/main/Tatyana_Ignatenko-diploma-presentation.pdf)
 
